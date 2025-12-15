@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Fira Code";
+    src: url("../font/Fira_code/FiraCode-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "FC SemiBold";
+    src: url("../font/Fira_code/FiraCode-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "FC Bold";
+    src: url("../font/Fira_code/FiraCode-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "FC Medium";
+    src: url("../font/Fira_code/FiraCode-Medium.ttf") format("truetype");
+}
